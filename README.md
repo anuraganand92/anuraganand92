@@ -24,10 +24,10 @@
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib)
+![Matplotlib](https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=seaborn)
+![Scipy](https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 <!-- ### OS
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)
