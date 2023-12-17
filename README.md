@@ -12,10 +12,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools, Libraries and Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Next](https://img.shields.io/badge/next-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/git-f83505?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=mysql)
