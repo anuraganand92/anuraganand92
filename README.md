@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Anand</h1>
-<h3 align="center">Software Engineer at <a href="https://github.com/APPLE">Apple</a> </h3>
+<h3 align="center">Software Engineer @apple </h3>
 
 <h3>Languages</h3>
 <div class="category">
